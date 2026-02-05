@@ -14,5 +14,9 @@ public class ProjectTanjotSingh {
         System.out.println("Hello World!");
     }
     
-    
+    public double add(double a, double b){
+        double result;
+        result = a + b;
+        return result;
+    }
 }
