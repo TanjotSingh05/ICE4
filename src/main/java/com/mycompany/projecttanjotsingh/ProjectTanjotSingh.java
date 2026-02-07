@@ -19,4 +19,12 @@ public class ProjectTanjotSingh {
         result = a + b;
         return result;
     }
+    
+    public double substract(double a, double b){
+        double result;
+        result = a - b;
+        return result;
+    }
+    
+    
 }
