@@ -26,5 +26,13 @@ public class ProjectTanjotSingh {
         return result;
     }
     
+    public double divide(double a, double b){
+        double result;
+        result = a / b;
+        return result;
+    }
+    
+    
+    
     
 }
